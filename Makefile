@@ -1,6 +1,6 @@
 # This Makefile is badly written at best
-# TODO: Rewrite this Makefile to be more general
-
+# TODO: Rewrite
+Harish Naitanwar good			
 CC = cc
 CFLAGS = -Wall -g
 
